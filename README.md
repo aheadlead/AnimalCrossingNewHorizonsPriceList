@@ -1,7 +1,7 @@
 # AnimalCrossingNewHorizonsPriceList
 《集合啦！动物森友会》物品价格列表
 
-欢迎纠正，欢迎补充，欢迎fork！
+欢迎纠正，欢迎补充，转载请注明出处，谢谢！
 
 ### 海鱼类
 名字 | 价格
